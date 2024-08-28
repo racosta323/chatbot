@@ -1,1 +1,3 @@
-API KEY = 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
+# Virtual env metadata
+.venv
+.env
